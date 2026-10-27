@@ -1,0 +1,15 @@
+<api>
+  <jcw-types>
+    <type name="MainActivity" package="crc64ada7ae66fb6d103a" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiAppCompatActivity" partial_assembly_qualified_name="Banderas.MainActivity, Banderas">
+      <constructors>
+        <constructor name="MainActivity" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+        <constructor name="MainActivity" method="n_.ctor:(I)V:" jni_signature="(I)V" managed_parameters="System.Int32, System.Private.CoreLib" params="int p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </constructors>
+    </type>
+    <type name="MainApplication" package="crc64ada7ae66fb6d103a" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="crc6488302ad6e9e4df1a.MauiApplication" is_application="True" partial_assembly_qualified_name="Banderas.MainApplication, Banderas" application_constructor="MainApplication" />
+  </jcw-types>
+  <acw-types partial-assembly-name="Banderas" module-name="Banderas.dll">
+    <type assembly-qualified-name="Banderas.MainActivity, Banderas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="banderas.MainActivity" java-key="crc64ada7ae66fb6d103a.MainActivity" managed-key="Banderas.MainActivity" partial-assembly-qualified-name="Banderas.MainActivity, Banderas" />
+    <type assembly-qualified-name="Banderas.MainApplication, Banderas, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="banderas.MainApplication" java-key="crc64ada7ae66fb6d103a.MainApplication" managed-key="Banderas.MainApplication" partial-assembly-qualified-name="Banderas.MainApplication, Banderas" />
+  </acw-types>
+</api>

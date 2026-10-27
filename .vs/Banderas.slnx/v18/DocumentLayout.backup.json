@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|c:\\users\\alessandrosbrofatiuz\\source\\repos\\banderas\\banderas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|solutionrelative:banderas\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|c:\\users\\alessandrosbrofatiuz\\source\\repos\\banderas\\banderas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|solutionrelative:banderas\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|c:\\users\\alessandrosbrofatiuz\\source\\repos\\banderas\\banderas\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95667087-8174-5369-06B7-F99BB92EE492}|Banderas\\Banderas.csproj|solutionrelative:banderas\\paises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paises.cs",
+              "DocumentMoniker": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\Paises.cs",
+              "RelativeDocumentMoniker": "Banderas\\Paises.cs",
+              "ToolTip": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\Paises.cs",
+              "RelativeToolTip": "Banderas\\Paises.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T12:00:31.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Banderas\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\MainPage.xaml.cs",
+              "RelativeToolTip": "Banderas\\MainPage.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T11:39:22.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Banderas\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\AlessandroSbrofatiUz\\source\\repos\\Banderas\\Banderas\\MainPage.xaml",
+              "RelativeToolTip": "Banderas\\MainPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-26T11:37:19.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
